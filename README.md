@@ -1,6 +1,8 @@
 # TFLite-Semantic-Segmantation
  Semantic Segmentation using TensorFlow Lite
 
+![alt-text-10](https://github.com/ayadav10491/TFLite-Semantic-Segmantation/blob/master/utils/camvid.gif)
+
 This work can be divided into two parts:
  
 ## Model (.h5) compression: 
