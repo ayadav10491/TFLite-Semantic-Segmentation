@@ -1,4 +1,12 @@
-#from __future__ import print_function
+"""
+The implementation of some Kears Saved model to TFLite Conversion.
+
+@Author: Akash Yadav
+@Github: https://github.com/ayadav10491
+@Project: https://github.com/ayadav10491/TFLite-Semantic-Segmentation
+
+"""
+
 
 from utils.utils import load_image, decode_one_hot
 from keras_preprocessing import image as keras_image
