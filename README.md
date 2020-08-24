@@ -1,4 +1,4 @@
-# TFLite-Semantic-Segmantation
+# TFLite-Semantic-Segmentation
  Semantic Segmentation using TensorFlow Lite
 
 ![alt-text-10](https://github.com/ayadav10491/TFLite-Semantic-Segmantation/blob/master/utils/camvid.gif)
